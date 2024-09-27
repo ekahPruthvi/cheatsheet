@@ -1,5 +1,6 @@
 # cheatsheet
-keybindings helper for cynageOS<\br>
+keybindings helper for cynageOS
+<\br>
 made using glade gtk and c to link the widgets.
 </br>
 ![2024-09-27-181902_hyprshot](https://github.com/user-attachments/assets/572e28ca-b7a7-484e-8e19-0df7d182bc26)
